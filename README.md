@@ -43,11 +43,11 @@ Your task is to create a full-stack application for managing books. The applicat
    - Write unit tests for at least two API endpoints (use **Jest** or **Mocha**).
    - (Bonus) Write unit tests for React components.
 
-### 4. **Deployment** (Optional):
+### 4. **Deployment** (Not Required):
    - Deploy the backend on **Heroku** and the frontend on **Vercel** or **Netlify**.
 
 ### 5. **Submission**:
-   - Provide the GitHub repository link containing your code for both the frontend and backend.
+   - Provide the GitHub repository link to Invigilator.
    - Include a detailed README file explaining the setup, how to run the project, and any assumptions made.
 
 ## Features
@@ -61,7 +61,7 @@ Your task is to create a full-stack application for managing books. The applicat
 
 ### Prerequisites
 
-Before running the application, ensure you have the following installed:
+Before running the application, ensure you have the following installed: (Skip this setup , if already installed)
 - **Node.js**: [Download Node.js](https://nodejs.org/)
 - **MongoDB**: Either local MongoDB instance or use **MongoDB Atlas**.
 
